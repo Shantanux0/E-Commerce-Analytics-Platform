@@ -83,8 +83,4 @@ Navigate to `http://localhost:3333` to view the live dashboard!
 
 > "This dashboard helps businesses increase revenue by identifying high-performing products and improving customer retention."
 
----
 
-## 🧾 Resume Line
-
-> Built an advanced E-Commerce Analytics Platform with forecasting, customer segmentation, and business insights, enabling data-driven decision-making using SQL, Python, and React.
