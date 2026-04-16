@@ -79,10 +79,12 @@ Navigate to `http://localhost:3333` to view the live dashboard!
 
 ---
 
-## 🎯 The Pitch
+## 🎯 Why It Matters
 
-*"I built an E-Commerce Analytics Platform that transforms raw transactional data into actionable business insights. It helps stakeholders track revenue, analyze customer behavior, and identify top-performing products through an interactive dashboard architecture."*
+> "This dashboard helps businesses increase revenue by identifying high-performing products and improving customer retention."
 
 ---
-*Architected as a premium decision-making product.*
-# E-Commerce-Analytics-Platform
+
+## 🧾 Resume Line
+
+> Built an advanced E-Commerce Analytics Platform with forecasting, customer segmentation, and business insights, enabling data-driven decision-making using SQL, Python, and React.
